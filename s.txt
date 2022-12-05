@@ -10,3 +10,5 @@ here the end?
 <p>Features 2</p>
 
 Another text
+
+Another text
